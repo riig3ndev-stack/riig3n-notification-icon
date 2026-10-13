@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="disguise_driver_label" translatable="false">Driver</string>
+    <string name="disguise_gloss_label" translatable="false">Gloss</string>
+    <string name="disguise_trader_label" translatable="false">Trader</string>
+    <string name="disguise_myjog_label" translatable="false">My Jog</string>
+</resources>
