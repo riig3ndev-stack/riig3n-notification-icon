@@ -1,0 +1,19 @@
+name: riig3n_notification_icon
+description: RiiG3N Android notification icon and accent colour (resources only, no code that runs).
+version: 1.0.0
+publish_to: none
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+  flutter: ">=3.10.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+  plugin:
+    platforms:
+      android:
+        package: com.riig3n.notification_icon
+        pluginClass: Riig3nNotificationIconPlugin
